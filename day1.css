@@ -1,0 +1,101 @@
+.mother {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.menu {
+   margin-bottom: 50px;
+   
+}
+
+.logo {
+    width:10%;
+    
+    margin-right: 98px;
+    
+}
+
+.left {
+    display:inline-block;
+    width: 40%;
+    background-color:;
+}
+
+.right {
+    display:inline-block;
+    width: 50%;
+    
+}
+
+.rightImage{
+    margin-left: 50%;
+    width: 100%;
+}
+
+.container {
+   
+}
+
+.footer{
+  text-align: center;
+  font-size: 30px;
+ 
+}
+
+.menuItem {
+text-decoration: none;
+color:inherit;
+margin-left: 30px;
+}
+
+.menuItem:hover{
+    border-bottom-style: solid;
+    
+
+}
+.text {
+    display:block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:none;
+    background-color: lightgrey;
+    height: 30px;
+    border-radius: 15px;
+    outline: none;
+    width:220px;
+    font-size: 15px;
+}
+
+.myanmar {
+    background-color: #0047f0;
+    border-radius: 27px;
+    border: none;
+    color:white;
+    padding: 2px 20px 0;
+    font-size: 19px;
+    height:40px;
+    width:100px;
+}
+
+.microsoft {
+    width:120px;
+    height: 40px;
+}
+
+.header{
+    margin-bottom: 50px;
+}
+ 
+.description {
+    margin-bottom: 20px;
+}
+
+.inputSpan {
+    margin-bottom: 20px;
+
+}
+
+.password {
+    margin-bottom: ;
+}
+
